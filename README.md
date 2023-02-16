@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/6180201/194214280-3a4106d5-53cf-4463-b
 # on Ubuntu or Debian
 sudo apt update && sudo apt install ffmpeg
 sudo apt install portaudio19-dev
+sudo apt install python3.10-dev
 
 # on Arch Linux
 sudo pacman -S ffmpeg
